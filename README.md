@@ -72,6 +72,11 @@ After finishing your required elements, you can push your work further. These go
 ## Stretch Interview Questions
 
 1. What is React JS and what problems does it solve? Support your answer with concepts introduced in class and from your personal research on the web.
+* React is an open-source JavaScript library developed by Meta. React creates composable user interfaces with reusable components that react to data changes. It solves problems are poor handling and slow data response of JS. Therefore, it is possible to perform fast on dynamic modern webs with frequent re-rendering.
+
 1. Describe component state.
+* Component is minimal units that make up apps made up of React. The component is a function that receives data (using props) and outputs a DOM node according to the View (using state) state.
 1. Describe props.
+* Props (properties) is used to pass values to components.
 1. What are side effects, and how do you sync effects in a React component to changes of certain state or props?
+* The incidental effects that should be asynchronously processed after the React component is rendered on the screen are called side effects.
